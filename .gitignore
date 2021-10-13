@@ -1,5 +1,7 @@
+.gitignore
 __pycache__
 pos/
 neg/
 videos/
 backup/
+posbackup/
